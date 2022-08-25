@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielKastenbaum
-- 👀 I’m interested in Litterature, functional programming, Elixir, NoSQL, art in general and Erlang in perticular. 
+- 👀 I’m interested in Litterature, functional programming, Elixir, NoSQL, art in general and Erlang in particular. 
 - 🌱 I’m currently learning ... a lot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send me 1000 dollar in cash and I'll reach you.
